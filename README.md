@@ -12,7 +12,10 @@ WhizPerfex includes the following features:
 
 ## Getting Started
 
-To get started with WhizPerfex, simply clone the repository and follow the installation instructions. Once installed, you can use the tools in the application to test and optimize your web applications for maximum performance.
+- npm create svelte@latest my-app
+- cd my-app
+- npm install
+- npm run dev -- --open
 
 ## Usage
 
