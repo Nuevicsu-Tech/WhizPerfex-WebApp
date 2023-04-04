@@ -1,6 +1,6 @@
 # WhizPerfex
 
-WhizPerfex is a collection of open-source tools designed to help web developers test and optimize the performance of their applications. The toolkit includes tools for measuring network speed, rendering speed, and code optimization.
+WhizPerfex is a web application that helps web developers analyze and optimize the performance of their websites. It provides a variety of tools and metrics for measuring network speed, rendering speed, and code optimization, and offers suggestions for improving website performance.
 
 ## Features
 
@@ -12,7 +12,11 @@ WhizPerfex includes the following features:
 
 ## Getting Started
 
-To get started with WhizPerfex, simply download the latest release from the GitHub repository and follow the installation instructions. Once installed, you can use the tools in the toolkit to test and optimize your web applications for maximum performance.
+To get started with WhizPerfex, simply clone the repository and follow the installation instructions. Once installed, you can use the tools in the application to test and optimize your web applications for maximum performance.
+
+## Usage
+
+WhizPerfex is a web application that can be deployed to Vercel or any other hosting service that supports Svelte applications. Once deployed, users can visit the website and input the URL of their website to be analyzed. The application will then provide a report on the website's performance and offer suggestions for improvement.
 
 ## Contributing
 
